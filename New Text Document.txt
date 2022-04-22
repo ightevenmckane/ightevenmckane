@@ -1,0 +1,6 @@
+<!-- Salesflare tracking -->
+<script src="https://track.salesflare.com/flare.js"></script>
+<script>
+	var flare = new Flare();
+	flare.track("eIqnIHMScRAHErTFBQRMRtrpDv3K75RlWX_Z14qQxlu0K");
+</script>
